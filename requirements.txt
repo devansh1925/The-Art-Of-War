@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+Pillow
+plotly
+pydeck
+country_converter
+geopy
+openpyxl
