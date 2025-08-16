@@ -1,4 +1,4 @@
-# Military Data Analysis Platforms
+# Military Data Analysis Platform
 
 ## Overview
 This Streamlit app visualizes global military data, including:
